@@ -1,7 +1,4 @@
 """
-File: asteroids.py
-Original Author: Br. Burton
-Designed to be completed by others
 This program implements the asteroids game.
 """
 import arcade
